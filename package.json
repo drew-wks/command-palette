@@ -1,6 +1,6 @@
 {
     "name": "command-palette",
-    "displayName": "Command Pa",
+    "displayName": "Command Palette Button",
     "description": "Add command palette button to status bar right bottom",
     "publisher": "drew",
     "version": "0.0.1",
